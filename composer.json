@@ -2,7 +2,6 @@
   "name": "tv88dn/reflection",
   "description": "A simple package that generate class names according to MVC structure via Yii2",
   "require": {
-    "php": ">=5.4.0",
-    "another-vendor/package": "1.*"
+    "php": ">=5.4.0"
   }
 }
